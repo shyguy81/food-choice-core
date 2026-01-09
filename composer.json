@@ -27,8 +27,8 @@
     "suggestion"
   ],
   "support": {
-    "issues": "https://github.com/shyguy81/food_choice_pkg/issues",
-    "source": "https://github.com/shyguy81/food_choice_pkg.git"
+    "issues": "https://github.com/shyguy81/food-choice-core/issues",
+    "source": "https://github.com/shyguy81/food-choice-core.git"
   },
   "extra": {
     "branch-alias": {
