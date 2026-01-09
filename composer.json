@@ -3,6 +3,7 @@
   "description": "Core domain library for the FoodChoice app",
   "type": "library",
   "license": "MIT",
+  "homepage": "https://github.com/shyguy81/food_choice_pkg",
   "authors": [
     {
       "name": "shyguy81"
@@ -18,6 +19,21 @@
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5"
+  },
+  "keywords": [
+    "food",
+    "domain",
+    "php",
+    "suggestion"
+  ],
+  "support": {
+    "issues": "https://github.com/shyguy81/food_choice_pkg/issues",
+    "source": "https://github.com/shyguy81/food_choice_pkg.git"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0-dev"
+    }
   },
   "minimum-stability": "stable"
 }
