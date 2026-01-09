@@ -3,7 +3,7 @@
   "description": "Core domain library for the FoodChoice app",
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/shyguy81/food_choice_pkg",
+  "homepage": "https://github.com/shyguy81/food-choice-core",
   "authors": [
     {
       "name": "shyguy81"
